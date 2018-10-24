@@ -1,19 +1,12 @@
 {
-  "name": "mill-vue-bootstrap",
+  "name": "mill-vue-component",
   "version": "1.0.0",
-  "description": "自定义的基于bootstrap的vue组件",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@gitee.com:mill_teacher/mill-vue-bootstrap.git"
-  },
-  "keywords": [
-    "vue",
-    "bootstrap"
-  ],
+
   "author": "mill",
   "license": "ISC"
 }

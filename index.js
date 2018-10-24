@@ -8,6 +8,8 @@ export  let Modal={
 
 import Test from './Test.js'
 import Table from './Table.js'
+import Nav from './Nav.js'
+import LunBo from './LunBo.js'
+import Main from './Main.js'
 
-
-export {Test,Table}
+export {Test,Table,Nav,LunBo,Main}
